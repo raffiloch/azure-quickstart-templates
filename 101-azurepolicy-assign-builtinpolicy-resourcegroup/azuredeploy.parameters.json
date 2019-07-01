@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "policyAssignmentName":{
-      "value": "RalochertestAzPolicy"
+      "value": "RalochertestAzPolicy2"
     },
     "policyDefinitionID":{
       "value": "/providers/Microsoft.Authorization/policyDefinitions/2fde8a98-6892-426a-83ba-050e640c0ce0"
